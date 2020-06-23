@@ -1,0 +1,2 @@
+# Description
+This folder consists of the Power Bi file, data file and the end report pdf file for the guided project on "Getting started with Power BI Desktop" offered by Coursera Project Network.
