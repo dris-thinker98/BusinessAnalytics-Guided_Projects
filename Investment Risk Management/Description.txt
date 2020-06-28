@@ -1,0 +1,5 @@
+# Description
+
+This is the complete excel file from the project I have performed in Google Sheets for the coursera guided project called "Investment Risk Management".
+It contains all the values for the Portfolio Sheet.
+The screenshots of the generated graphs in this (google sheet) file is upoloaded separately too for viewing in Github.
